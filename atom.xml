@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://delelife007.github.io</id>
     <title>Gridea</title>
-    <updated>2020-04-29T14:55:59.093Z</updated>
+    <updated>2020-04-29T15:28:20.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://delelife007.github.io"/>
     <link rel="self" href="https://delelife007.github.io/atom.xml"/>
@@ -16,30 +16,58 @@
         <link href="https://delelife007.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://www.math.hkbu.edu.hk/~hpeng/Fig1.jpg" alt="" loading="lazy"></figure>
+<p>Heng Peng</p>
+<figure data-type="image" tabindex="2"><a href="http://www.hkbu.edu.hk/"><img src="https://www.math.hkbu.edu.hk/~hpeng/top_01.gif" alt="" loading="lazy"></a></figure>
+<p><em>Associate Professor</em></p>
+<p><em><a href="http://www.math.hkbu.edu.hk/">Department of Mathematics</a></em></p>
+<figure data-type="image" tabindex="3"><img src="https://www.math.hkbu.edu.hk/~hpeng/barblue.gif" alt="" loading="lazy"></figure>
+<p><strong>Education</strong></p>
+<p>B.S. (1997), The University of Science and Technology of China (<a href="http://www.ustc.edu.cn/">USTC)</a></p>
+<p>M.S. (2000), The University of Science and Technology of China</p>
+<p>Ph.D. (2003), The Chinese University of Hong Kong (<a href="http://www.cuhk.edu.hk/">CUHK</a>)</p>
+<figure data-type="image" tabindex="4"><img src="https://www.math.hkbu.edu.hk/~hpeng/barblue.gif" alt="" loading="lazy"></figure>
+<p><strong>Working Experience</strong></p>
+<p>12/2003-6/2006    Research Associate, Department of Operation Research and Financial</p>
+<pre><code> Engineering, Princeton University 
+</code></pre>
+<p>9/2006-8/2014    Assistant Professor, <a href="http://www.math.hkbu.edu.hk/">Department of Mathematics</a>, HKBU</p>
+<p>9/2014-Present    Associate Professor, <a href="http://www.math.hkbu.edu.hk/">Department of Mathematics</a>, HKBU</p>
+<figure data-type="image" tabindex="5"><img src="https://www.math.hkbu.edu.hk/~hpeng/barblue.gif" alt="" loading="lazy"></figure>
+<p><strong>Teaching</strong></p>
+<p><strong><img src="https://www.math.hkbu.edu.hk/~hpeng/blebul1a.gif" alt="" loading="lazy"> MATH 2206 Probability and Statistics</strong></p>
+<p><strong><img src="https://www.math.hkbu.edu.hk/~hpeng/blebul1a.gif" alt="" loading="lazy"></strong> <strong>MATH 3806 <a href="http://www.math.hkbu.edu.hk/~hpeng/Math3806.html">Multivariate Statistical Methods</a></strong></p>
+<p><strong><img src="https://www.math.hkbu.edu.hk/~hpeng/blebul1a.gif" alt="" loading="lazy"></strong> <strong>MATH 3825 Life Insurance and Life Contingencies</strong></p>
+<p><strong><img src="https://www.math.hkbu.edu.hk/~hpeng/blebul1a.gif" alt="" loading="lazy"></strong> <em><em>MATH 3837</em> Actuarial Mathematics</em>*</p>
+<p><strong><img src="https://www.math.hkbu.edu.hk/~hpeng/blebul1a.gif" alt="" loading="lazy"></strong> <em><em>MATH4826</em> <a href="http://www.math.hkbu.edu.hk/~hpeng/Math4826.html">Time Series and Forecasting</a></em>*</p>
+<figure data-type="image" tabindex="6"><img src="https://www.math.hkbu.edu.hk/~hpeng/barblue.gif" alt="" loading="lazy"></figure>
+<p><strong>Research Interesting</strong></p>
+<p><strong><img src="https://www.math.hkbu.edu.hk/~hpeng/blebul1a.gif" alt="" loading="lazy"> Financial Econometric</strong></p>
+<p><strong><img src="https://www.math.hkbu.edu.hk/~hpeng/blebul1a.gif" alt="" loading="lazy"> Bioinformatics</strong></p>
+<p><strong><img src="https://www.math.hkbu.edu.hk/~hpeng/blebul1a.gif" alt="" loading="lazy"> Data-analytic Modeling</strong></p>
+<p><strong><img src="https://www.math.hkbu.edu.hk/~hpeng/blebul1a.gif" alt="" loading="lazy"> Model Selection</strong></p>
+<p><strong><img src="https://www.math.hkbu.edu.hk/~hpeng/blebul1a.gif" alt="" loading="lazy"> Nonparametric Methods</strong></p>
+<p><strong><img src="https://www.math.hkbu.edu.hk/~hpeng/barblue.gif" alt="" loading="lazy"></strong></p>
+<p><strong>Selected Publications</strong></p>
+<p><strong><img src="https://www.math.hkbu.edu.hk/~hpeng/blebul1a.gif" alt="" loading="lazy"></strong> Huang, T., Peng, H. and Zhang, K. (2016), <a href="http://arxiv.org/abs/1301.3558">Model Selection for Gaussian Mixture Models</a>, accepted by  Statistica Sinica</p>
+<p><strong><img src="https://www.math.hkbu.edu.hk/~hpeng/blebul1a.gif" alt="" loading="lazy"></strong> Li, G. R., Peng, H., Dong, K and Tong, T. J. (2014), <a href="http://www3.stat.sinica.edu.tw/statistica/J24N2/J24N220/J24N220.html">Simultaneous Confidence Bands and Hypothesis Testing for Single-index Models</a>, Statistica Sinica, 24, 937-955.</p>
+<p><strong><img src="https://www.math.hkbu.edu.hk/~hpeng/blebul1a.gif" alt="" loading="lazy"></strong> Cui, X., Peng, H., Wen, S. Q. and Zhu, L. X. (2013), <a href="http://arxiv.org/abs/1101.0047">Component selection in an additive models</a>, Scandinavian Journal of Statistics, 40, 491-510.</p>
+<p><strong><img src="https://www.math.hkbu.edu.hk/~hpeng/blebul1a.gif" alt="" loading="lazy"></strong> Lin, H. Z., and Peng, H., (2013), <a href="http://www.sciencedirect.com/science/article/pii/S0167947312002861">Smoothed rank correlation of the Linear transformation regression model</a>, Computational Statistics and Data Analysis, 57, 615-630.\</p>
+<p><strong><img src="https://www.math.hkbu.edu.hk/~hpeng/blebul1a.gif" alt="" loading="lazy"></strong> Li, G. R., Peng, H., Zhang J. and Zhu, L. X. (2012), <a href="http://arxiv.org/abs/1012.4255">Robust Rank correlation based Screening</a>, The Annals of Statistics, 40, 1846-1877.</p>
+<p><strong><img src="https://www.math.hkbu.edu.hk/~hpeng/blebul1a.gif" alt="" loading="lazy"></strong> Peng, H. and Lu, Y. (2012), <a href="http://www.sciencedirect.com/science/article/pii/S0047259X12000395">Model Selection in Linear Mixed Effects Models</a>, Journal of Multivariate Analysis, 109, 109-129.</p>
+<p><strong><img src="https://www.math.hkbu.edu.hk/~hpeng/blebul1a.gif" alt="" loading="lazy"></strong> Peng, H. and Huang, T. (2011), <a href="http://www.sciencedirect.com/science/article/pii/S0378375810004726">Penalized Least Squares for Single Index Models</a>, Journal of Statistical Planning and Inference, 141, 1362-1379.</p>
+<p><strong><img src="https://www.math.hkbu.edu.hk/~hpeng/blebul1a.gif" alt="" loading="lazy"></strong> Li, G. R., Peng, H. and Zhu, L. X., (2011), <a href="https://www.math.hkbu.edu.hk/~hpeng/Paper/penM_est.pdf">Nonconcave Penalized M-estimation with Diverging Number of Parameters</a>, Statistica Sinica, 21, 391-420.</p>
+<p><strong><img src="https://www.math.hkbu.edu.hk/~hpeng/blebul1a.gif" alt="" loading="lazy"></strong> Zhang, W. Y. and Peng H., (2010), <a href="http://www.sciencedirect.com/science/article/pii/S0047259X10000539">Simultaneous confidence band and hypothesis test in generalized varying-coefficient models</a>, Journal of Multivariate Analysis , 101, No. 7, 1656-1680.</p>
+<p><strong><img src="https://www.math.hkbu.edu.hk/~hpeng/blebul1a.gif" alt="" loading="lazy"></strong> Ait-Sahalia, Y., Fan, J. and Peng, H. (2009). <a href="https://www.math.hkbu.edu.hk/~hpeng/Paper/Diffusion.pdf">Nonparametric transition-based tests for diffusions</a>, Journal of American Statistical Association, Vol 104, No 487, 1102-1116.</p>
+<p><strong><img src="https://www.math.hkbu.edu.hk/~hpeng/blebul1a.gif" alt="" loading="lazy"></strong> Zhu, L.X., Miao, B.Q., and Peng, H.(2006), <a href="https://www.math.hkbu.edu.hk/~hpeng/Paper/SIR_HDC.pdf">On Sliced Inverse Regression with large dimensional covariates</a>, Journal of American Statistical Association, Vol 101, No. 474, 630-643.</p>
+<p><strong><img src="https://www.math.hkbu.edu.hk/~hpeng/blebul1a.gif" alt="" loading="lazy"></strong> <em>Fan, J., Peng H., and Huang, T., (2005), <a href="https://www.math.hkbu.edu.hk/~hpeng/Paper/nasat2.pdf">Semilinear high-dimensional model for normalization of mircoarray data: a theoretical analysis and partial consistency</a>(with discussion</em>)<em>,</em> Journal of American Statistical Association, Vol 100, No. 471, 781-796.</p>
+<p><strong><img src="https://www.math.hkbu.edu.hk/~hpeng/blebul1a.gif" alt="" loading="lazy"></strong> Fan, J. and Peng H., (2004), <a href="https://www.math.hkbu.edu.hk/~hpeng/Paper/modsel.pdf">Nonconcave penalized likelihood with a diverging number of parameters</a>, The annals of statistics, Vol 32, No 3, 928-961.</p>
+<figure data-type="image" tabindex="7"><img src="https://www.math.hkbu.edu.hk/~hpeng/barblue.gif" alt="" loading="lazy"></figure>
+<p><strong>Updated April. 6, 2016</strong></p>
+<p>FSC1205, Fong Shu Chuen Building Department of Mathematics, The Hong Kong Baptist University, Kowloon Tong, Hong Kong</p>
+<p><strong><a href="mailto:hpeng@math.hkbu.edu.hk">hpeng@hkbu.edu.hk</a></strong></p>
+<pre><code>(852)-3411 7021
+</code></pre>
 ]]></content>
     </entry>
 </feed>
